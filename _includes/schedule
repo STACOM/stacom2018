@@ -1,0 +1,37 @@
+| 8:30-9:30 | *Registration*
+| 9:30-9:40 | **Welcome and agenda** (workshop organizers)
+| 9:40-10:30 | **Keynote lecture** (chair: Dr. Alistair Young) 
+| | **Machine learning in cardiac imaging**<br>Keynote speaker: **Dr. Andrew King**, King's College London, UK<br><br><embed src="{{ '/assets/KING_STACOM2018.pdf' | relative_url }}" type="application/pdf"/>
+| 10:30-11:00 | **Regular papers** - poster teasers 2 min each presenter (chair: Dr. Khawal Rhode)
+| 11:00-11:30 | *Coffee break*
+| 11:30-13:00 | **Regular papers** - orals (chairs: Dr. Mihaela Pop and Dr. Maxime Sermesant)
+| 11:30-11:42 | T Syed, B Samari, K Siddiqi: “Estimating Sheets in the Heart Wall”
+| 11:42-11:54 | A Banerjee, R Kharbanda, R Choudhury, V Grau: “Automated Motion Correction and 3D Vessel Centerlines Reconstruction from non- simultaneous angiographic projections”
+| 11:54-12:06 | S Dangi, Z Yaniv, C Linte: “Left Ventricle Segmentation and Quantification from Cardiac Cine MR Images via Multi-task Learning”
+| 12:06-12:18 | J Slipsager, K Juhl, P Sigvardsen, K Kofoed, O Backer, A Olivares, R Paulsen: “Statistical Shape Clustering of Left Atrial  Appendages”
+| 12:18-12:30 | S Marchesseau, H Fadil, J Totman “Deep Learning Segmentation of the Left Ventricle in Structural CMR”
+| 12:30-12:42 | F Guo, M Li, M Ng, G Wright, M Pop: “Cine and Multicontrast Late Enhanced MRI Registration for 3D Heart Model Construction”
+| 12:42-12:54 | J Mill, A Olivares, E Silva, I Genua, A Fernandez, A Aguado, M Nuñez, T Potter, X Freixa, O Camara: “Joint analysis of personalized in-silico haemodynamics ad shape descriptors of the left atrial appendage”
+| 12:54-13:00 | Session wrap-up and general discussion
+| 13:00-15:00 | **Lunch and poster presentation** (chairs: Dr. Kristin McLeod and Dr. Tommaso Mansi)
+| 15:00-16:00 | **LV quantification challenge** (chair: Dr. Shuo Li)
+| 15:00-15:20 | Challenge data and description from the organizers
+| 15:20-16:10 | Short orals (10min each) from the LVquant challenge:
+| 15:20-15:30 | E Kerfoot, J Clough, I Oksuz, J Lee, AP King, J Schnabel: “Left-Ventricle Quantification Using Residual U-Net”
+| 15:30-15:40 | J Li, Z Hu: “LV full quantification using deep layer aggregation based multitask relationship learning”
+| 15:40-15:50 | I Grinias, G Tziritas: “Convexity and connectivity principles applied for Left Ventricle segmentation and quantification”
+| 15:50-16:00 | H Xu, J Schneider, V Grau: “Calculation of anatomical and functional metrics using deep learning in Cardiac MRI”
+| 16:00-16:10 | L Liu, J Ma, J Wang, J Xiao “Automated Full Quantification of Left Ventricle using deep neural networks”
+| 16:10-16:30 | Challenge wrap-up
+| 17:00-18:50 | **Atrial segmentation challenge** (chair: Dr. Jichao Zhao)
+| 17:00-17:10 | Challenge data and description from the organizers
+| 17:10-18:20 | Short orals (10min each) from the 3D Atrial segmentation challenge:
+| 17:10-17:20 | Q Xia, Y Hao, Z Hu, A Hao: “Automatic 3D Atrial Segmentation from Gadolinium-enhanced MRI using Volumetric Fully Convolutional Networks”
+| 17:20-17:30 | S Jia, A Despinasse, Z Wang, H Delingette, X Pennec, P Jaïs, H Cochet, M Sermesant: “Automatically Segmenting the Left Atrium from Cardiac Images Using Successive 3D U-Nets”
+| 17:30-17:40 | M Qiao, Y Wang, R Geest, Q Tao: ”Fully Automated Left Atrium Cavity Segmentation from 3D GE-MRI by Multi-Atlas Selection and Registration”
+| 17:40-17:50 | C Bian, X Yang, S Zheng, J Ma, YA Liu, R Nezafat, PA Heng, Y Zheng: “Pyramid Network with online Hard Example Mining for Accurate Left Atrium Segmentation”
+| 17:50-18:00 | X Yang, N Wang, Y Wang, X Wang, R Nezafat, D Ni, PA Heng: “Combating Uncertainty with Novel Losses for Automatic Atrium Segmentation”
+| 18:00-18:10 | C Li, Q Tong, X Liao, W Si, Y Sun, Q Wang, PA Heng: “Attention based hierarchical aggregation network for 3D Left atrial segmentation”
+| 18:10-18:30 | Challenge wrap-up
+| 18:30-18:50 | Presentation from the sponsors
+| 18:50:19:00 | **Awards, closing remarks and adjourn**
